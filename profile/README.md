@@ -9,7 +9,7 @@ Here you'd find repos I made for:
 * Marcy Lab Assignments
 * AllStarCode Projects
 
-... and hopefully many more!
+... and perhaps many more!
 
 <!--
 
