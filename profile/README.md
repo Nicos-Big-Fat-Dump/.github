@@ -5,8 +5,8 @@ This repo is like that box full of random knick knacks you hid under the bed one
 Basically, I use this to stash away the repos I don't want cluttering up my personal account's repo list.
 
 Here you'd find repos I made for:
-* Codecademy Projects
-* Marcy Lab Projects
+* Codecademy Notes/Projects
+* Marcy Lab Assignments
 * AllStarCode Projects
 
 ... and hopefully many more!
