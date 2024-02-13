@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This repo is like that box full of random knick knacks you hid under the bed one time.
+This organization is like that box full of random knick knacks you hid under the bed one time.
 
 Basically, I use this to stash away the repos I don't want cluttering up my personal account's repo list.
 
